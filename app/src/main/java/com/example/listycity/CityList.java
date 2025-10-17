@@ -57,7 +57,7 @@ public class CityList {
 
     /**
      * This method returns the number of cities in the list of cities
-     * @return
+     * @return an integer, which is the size of the cities list
      */
     public int citiesCount() {
         return cities.size();
